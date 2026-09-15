@@ -2,6 +2,15 @@
 
 ## Catálogo dos projetos trabalhados na disciplina de PDSI - ano 2026
 
+## 
+## projeto: <a>https://github.com/WallisonAndre/BE-Desk<a>
+## Project: <a>https://github.com/users/devigMurilo/projects/2<a>
+### Team: <a>https://github.com/devigMurilo</a>, <a>https://github.com/ellisonpanda <a>, <a>https://github.com/WallisonAndre<a>,
+
+ ### Project: <a>https://github.com/users/devigMurilo/projects/2<a>
+- Team: [Igor Murilo](https://github.com/devigMurilo), [Ellison] (https://github.com/ellisonpanda),[Wallison] (https://github.com/WallisonAndre),
+- Github: https://github.com/WallisonAndre/BE-Desk
+  
 ### IntelIF
 - Equipe: [Lucas Thierry](https://github.com/lucasthierry9) [Matheus Fabricio](https://github.com/MatheusFabSouza)
 - Descrição: IntelIF é um sistema acadêmico criado para ajudar estudantes do IFRN em suas dependências educacionais, com opção de login no SUAP e suporte a Google Classroom para melhor comunicação entre alunos e plataformas, alem de diversas funcionalidades com cunho educaional.
