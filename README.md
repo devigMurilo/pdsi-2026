@@ -2,13 +2,8 @@
 
 ## Catálogo dos projetos trabalhados na disciplina de PDSI - ano 2026
 
-## 
-## projeto: <a>https://github.com/WallisonAndre/BE-Desk<a>
-## Project: <a>https://github.com/users/devigMurilo/projects/2<a>
-### Team: <a>https://github.com/devigMurilo</a>, <a>https://github.com/ellisonpanda <a>, <a>https://github.com/WallisonAndre<a>,
-
- ### Project: <a>https://github.com/users/devigMurilo/projects/2<a>
-- Team: [Igor Murilo](https://github.com/devigMurilo), [Ellison] (https://github.com/ellisonpanda),[Wallison] (https://github.com/WallisonAndre),
+### Project: <a>https://github.com/users/devigMurilo/projects/2</a>
+- Team: [Igor Murilo](https://github.com/devigMurilo), [Ellison](https://github.com/ellisonpanda),[Wallison](https://github.com/WallisonAndre),
 - Github: https://github.com/WallisonAndre/BE-Desk
   
 ### IntelIF
