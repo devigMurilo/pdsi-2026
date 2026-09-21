@@ -31,6 +31,6 @@
 - Descrição: O sistema oferece um ambiente digital seguro e redes de apoio para enfrentar a violência de gênero. 
 - GitHub: https://github.com/clarasouzas/ampara
 ### Barber Grid
-Descrição: Aplicação web acadêmica desenvolvida com Django para consulta de serviços de uma barbearia.
-Autor: [Álvaro Yuri](https://github.com/alvarogit-ops)
+- Descrição: Aplicação web acadêmica desenvolvida com Django para consulta de serviços de uma barbearia.
+- Autor: [Álvaro Yuri](https://github.com/alvarogit-ops)
 
