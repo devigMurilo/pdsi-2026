@@ -2,6 +2,11 @@
 
 ## Catálogo dos projetos trabalhados na disciplina de PDSI - ano 2026
 
+### SOS Animais de Riachuelo
+- Equipe: [Otton Pierre](https://github.com/OttonPierre), [Gustavo Lunnyê](https://github.com/Gusta567u) e [João Pedro](https://github.com/oi-jotape)
+- Descrição: O SOS Animais de Riachuelo é um site criado para apoiar e organizar a comunidade local envolvida no resgate e cuidado de animais em situação de abandono ou vulnerabilidade. A plataforma tem como objetivo facilitar a comunicação entre voluntários, divulgar animais que precisam de ajuda, registrar resgates e promover a colaboração da população. Dessa forma, o site busca tornar o trabalho de proteção animal mais organizado, eficiente e acessível para toda a comunidade de Riachuelo.
+- Github: https://github.com/OttonPierre/ProjetoRiachuelo
+
 ### Project: <a>https://github.com/users/devigMurilo/projects/2</a>
 - Team: [Igor Murilo](https://github.com/devigMurilo), [Ellison](https://github.com/ellisonpanda),[Wallison](https://github.com/WallisonAndre),
 - Github: https://github.com/WallisonAndre/BE-Desk
