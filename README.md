@@ -2,15 +2,12 @@
 
 ## Catálogo dos projetos trabalhados na disciplina de PDSI - ano 2026
 
-## 
-## projeto: <a>https://github.com/WallisonAndre/BE-Desk<a>
-## Project: <a>https://github.com/users/devigMurilo/projects/2<a>
-### Team: <a>https://github.com/devigMurilo</a>, <a>https://github.com/ellisonpanda <a>, <a>https://github.com/WallisonAndre<a>,
-
- ### Project: <a>https://github.com/users/devigMurilo/projects/2<a>
-- Team: [Igor Murilo](https://github.com/devigMurilo), [Ellison] (https://github.com/ellisonpanda),[Wallison] (https://github.com/WallisonAndre),
+### BE-Desk
+- Equipe: [Igor Murilo](https://github.com/devigMurilo), [Ellison](https://github.com/ellisonpanda) e [Wallison](https://github.com/WallisonAndre)
+- Descrição: O BE-Desk é um sistema web de reserva de espaços e organização de eventos do Bloco E do IFRN. A plataforma digitaliza o uso da quadra, do ginásio e das salas, com grade de horários por sala e por semana, pedidos de reserva aprovados pela administração, eventos com inscrição e limite de vagas, notificações e login pela conta institucional do SUAP, substituindo os antigos registros manuais.
 - Github: https://github.com/WallisonAndre/BE-Desk
-  
+- Project: https://github.com/users/WallisonAndre/projects/2
+
 ### IntelIF
 - Equipe: [Lucas Thierry](https://github.com/lucasthierry9) [Matheus Fabricio](https://github.com/MatheusFabSouza)
 - Descrição: IntelIF é um sistema acadêmico criado para ajudar estudantes do IFRN em suas dependências educacionais, com opção de login no SUAP e suporte a Google Classroom para melhor comunicação entre alunos e plataformas, alem de diversas funcionalidades com cunho educaional.
